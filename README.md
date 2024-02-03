@@ -4,6 +4,10 @@
 
 1. Review Decompiled APK from Henry
 
+## Goals
+
+Determine via random sampling, what percentage of APKs on the Google Play store have exposed secrets in them. Additionally, SAST scans can be performed and API URLs can be discovered.
+
 ## Overview
 
 1. Download an `.apk` file from Google Play
