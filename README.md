@@ -30,10 +30,14 @@ We can target small organizations' applications as their security may be worse t
   - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
 - "Q StudentConnection"
   - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
-- z
-- a
-- b
-- c
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
 
 ## Tools
 
