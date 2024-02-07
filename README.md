@@ -1,5 +1,9 @@
 # Secrets and SAST scanning of publicly-available APKs
 
+## Related Links
+
+Google Drive folder for presentation/non-SCM files: https://drive.google.com/drive/folders/1Po1YpPNEcthpGrT-sxIwqHcVqTR_IHMb?usp=drive_link
+
 ## Tasks
 
 1. Review Decompiled APK from Henry
