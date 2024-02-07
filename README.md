@@ -24,6 +24,22 @@ We can target small organizations' applications as their security may be worse t
 4. Scan it with a SAST tool, review results
 5. Search for API URLs, review results
 
+## Search methodology
+
+We want to target applications that are developed by smaller companies which may have more lax security standards. Sample search terms are below:
+
+- Company portal 
+- Student portal 
+- Employee portal
+- Healthcare
+- HR portal 
+- Accounting 
+- Financial management 
+- Inventory management 
+- Point of sale (POS) 
+- Time tracking 
+- Task management 
+
 ## Decompiled APKs
 
 - "Student Portal"
