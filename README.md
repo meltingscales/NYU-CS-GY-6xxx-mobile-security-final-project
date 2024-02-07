@@ -6,7 +6,8 @@ Google Drive folder for presentation/non-SCM files: https://drive.google.com/dri
 
 ## Tasks
 
-1. Review Decompiled APK from Henry
+- Search for 5 APKs
+  - Decompile them and put their decompiled source code into git repos, and update this document with links to the repos
 
 ## Goals
 
