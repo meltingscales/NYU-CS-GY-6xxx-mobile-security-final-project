@@ -66,6 +66,10 @@ We want to target applications that are developed by smaller companies which may
 
 ## Tools
 
+### URLs
+
+- https://github.com/ndelphit/apkurlgrep
+
 ### SAST
 
 - Snyk
