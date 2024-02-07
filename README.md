@@ -46,9 +46,12 @@ We want to target applications that are developed by smaller companies which may
   - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
 - "Q StudentConnection"
   - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
-- 3
-- 4
-- 5
+- "Axis Mobile - Corporate"
+  - https://play.google.com/store/apps/details?id=com.axisidp.mobile
+- "BHIM Axis Pay:UPI,Online Recha"
+  - https://play.google.com/store/apps/details?id=com.upi.axispay
+- "PrismHR Employee Portal"
+  - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
 - 6
 - 7
 - 8
