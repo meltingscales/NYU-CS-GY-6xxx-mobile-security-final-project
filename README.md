@@ -15,3 +15,13 @@ Determine via random sampling, what percentage of APKs on the Google Play store 
 3. Scan it with a secret scanning tool, review results and pentest further
 4. Scan it with a SAST tool, review results
 5. Search for API URLs, review results
+
+## Tools
+
+### SAST
+
+- Snyk
+
+### Secrets Scanning
+
+- gitLeaks
