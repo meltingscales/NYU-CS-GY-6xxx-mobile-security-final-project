@@ -10,7 +10,11 @@ Google Drive folder for presentation/non-SCM files: https://drive.google.com/dri
 
 ## Goals
 
-Determine via random sampling, what percentage of APKs on the Google Play store have exposed secrets in them. Additionally, SAST scans can be performed and API URLs can be discovered.
+Determine what percentage of APKs on the Google Play store have exposed secrets in them. 
+
+Additionally, SAST scans can be performed and API URLs can be discovered.
+
+We can target small organizations' applications as their security may be worse than larger ones.
 
 ## Overview
 
@@ -22,7 +26,14 @@ Determine via random sampling, what percentage of APKs on the Google Play store 
 
 ## Decompiled APKs
 
-- To be built out. Put Git repositories containing decompiled APK source code here.
+- "Student Portal"
+  - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
+- "Q StudentConnection"
+  - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
+- z
+- a
+- b
+- c
 
 ## Tools
 
