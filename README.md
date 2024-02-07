@@ -66,14 +66,18 @@ We want to target applications that are developed by smaller companies which may
 
 ## Tools
 
+### Decompilation
+
+- [apktool](https://apktool.org/docs/install/)
+
 ### URLs
 
-- https://github.com/ndelphit/apkurlgrep
+- [apkurlgrep](https://github.com/ndelphit/apkurlgrep)
 
 ### SAST
 
-- Snyk
+- [Snyk](https://app.snyk.io/login)
 
 ### Secrets Scanning
 
-- gitLeaks
+- [gitLeaks](https://gitleaks.io/)
