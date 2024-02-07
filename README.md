@@ -64,6 +64,11 @@ We want to target applications that are developed by smaller companies which may
 - 9
 - 10
 
+## Resources
+
+- https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting
+- https://github.com/ndelphit/apkurlgrep/issues/13
+
 ## Tools
 
 ### Decompilation
