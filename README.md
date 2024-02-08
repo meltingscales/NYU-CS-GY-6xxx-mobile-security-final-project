@@ -48,26 +48,31 @@ We want to target applications that are developed by smaller companies which may
   - https://github.com/meltingscales/com.edu_pro.studentportal
 - "Q StudentConnection"
   - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
-  - github link tbd
+  - github link tbd - henry
 - "Axis Mobile - Corporate"
   - https://play.google.com/store/apps/details?id=com.axisidp.mobile
-  - github link tbd
+  - github link tbd - henry
 - "BHIM Axis Pay:UPI,Online Recha"
   - https://play.google.com/store/apps/details?id=com.upi.axispay
-  - github link tbd
+  - github link tbd - henry
 - "PrismHR Employee Portal"
   - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
-  - github link tbd
+  - github link tbd - henry
 -  ClientiApp - Client management
-    - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
+  - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
+  - github link tbd - michael
 -  AppFolio Property Manager
-    - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
+  - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
+  - github link tbd - michael
 -  InteliChart Patient Portal
-    - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
+  - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
+  - github link tbd - michael
 -  Verizon Business Group Network Vendor Portal
-    - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
+  - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
+  - github link tbd - michael
 -  Paycom Software, Inc. Paycom
-    - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+  - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+  - github link tbd - michael
 
 
 ## Resources
