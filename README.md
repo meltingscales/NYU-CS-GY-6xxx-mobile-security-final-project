@@ -58,11 +58,17 @@ We want to target applications that are developed by smaller companies which may
 - "PrismHR Employee Portal"
   - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
   - github link tbd
-- 6
-- 7
-- 8
-- 9
-- 10
+-  ClientiApp - Client management
+    - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
+-  AppFolio Property Manager
+    - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
+-  InteliChart Patient Portal
+    - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
+-  Verizon Business Group Network Vendor Portal
+    - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
+-  Paycom Software, Inc. Paycom
+    - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+
 
 ## Resources
 
