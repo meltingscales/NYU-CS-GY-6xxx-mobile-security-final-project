@@ -43,46 +43,46 @@ We want to target applications that are developed by smaller companies which may
 
 ## Decompiled APKs
 
-- "Student Portal"
-  - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
-  - https://github.com/meltingscales/com.edu_pro.studentportal
-  - Summary: No findings.
+1.  "Student Portal"
+    - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
+    - https://github.com/meltingscales/com.edu_pro.studentportal
+    - Summary: No findings.
 
-- "Q StudentConnection"
-  - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
-  - github link tbd - henry
+2.  "Q StudentConnection"
+    - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
+    - github link tbd - henry
 
-- "Axis Mobile - Corporate"
-  - https://play.google.com/store/apps/details?id=com.axisidp.mobile
-  - https://github.com/meltingscales/com.axisidp.mobile
+3.  "Axis Mobile - Corporate"
+    - https://play.google.com/store/apps/details?id=com.axisidp.mobile
+    - https://github.com/meltingscales/com.axisidp.mobile
 
-- "BHIM Axis Pay:UPI,Online Recha"
-  - https://play.google.com/store/apps/details?id=com.upi.axispay
-  - github link tbd - henry
+4.  "BHIM Axis Pay:UPI,Online Recha"
+    - https://play.google.com/store/apps/details?id=com.upi.axispay
+    - github link tbd - henry
 
-- "PrismHR Employee Portal"
-  - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
-  - github link tbd - henry
+5.  "PrismHR Employee Portal"
+    - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
+    - github link tbd - henry
 
-- ClientiApp - Client management
-  - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
-  - github link tbd - michael
+6.  ClientiApp - Client management
+    - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
+    - github link tbd - michael
 
-- AppFolio Property Manager
-  - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
-  - github link tbd - michael
+7.  AppFolio Property Manager
+    - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
+    - github link tbd - michael
 
-- InteliChart Patient Portal
-  - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
-  - github link tbd - michael
+8.  InteliChart Patient Portal
+    - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
+    - github link tbd - michael
 
-- Verizon Business Group Network Vendor Portal
-  - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
-  - github link tbd - michael
+9.  Verizon Business Group Network Vendor Portal
+    - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
+    - github link tbd - michael
 
-- Paycom Software, Inc. Paycom
-  - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
-  - github link tbd - michael
+10. Paycom Software, Inc. Paycom
+    - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    - github link tbd - michael
 
 
 ## Resources
