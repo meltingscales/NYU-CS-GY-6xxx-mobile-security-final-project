@@ -79,6 +79,7 @@ We want to target applications that are developed by smaller companies which may
 
 - https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting
 - https://github.com/ndelphit/apkurlgrep/issues/13
+- Downloading APK files from an android device: https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device
 
 ## Tools
 
