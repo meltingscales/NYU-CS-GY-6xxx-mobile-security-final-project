@@ -55,6 +55,7 @@ We want to target applications that are developed by smaller companies which may
 3.  "Axis Mobile - Corporate"
     - https://play.google.com/store/apps/details?id=com.axisidp.mobile
     - https://github.com/meltingscales/com.axisidp.mobile
+    - Summary: 2 generic API keys exposed, 1 Google Maps API key exposed, domain `idpm.axisbank.co.in` should have `nmap` and `dirb` ran on it. Running some HTTP service in India.
 
 4.  "BHIM Axis Pay:UPI,Online Recha"
     - https://play.google.com/store/apps/details?id=com.upi.axispay
