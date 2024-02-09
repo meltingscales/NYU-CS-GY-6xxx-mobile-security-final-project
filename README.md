@@ -60,6 +60,12 @@ We want to target applications that are developed by smaller companies which may
       - 2 generic API keys exposed
       - 1 Google Maps API key exposed
       - The domain `idpm.axisbank.co.in` should have `nmap` and `dirb` ran on it. Running some HTTP service in India.
+      - Snyk SAST:
+        - Hardcoded IVs for crypto keys,
+        - They use DESede ECB with no padding,
+        - They may have XXE, by parsing XML unsafely,
+        - They use AES CBC,
+        - Assorted Medium findings.
 
 4.  "BHIM Axis Pay:UPI,Online Recha"
     - https://play.google.com/store/apps/details?id=com.upi.axispay
