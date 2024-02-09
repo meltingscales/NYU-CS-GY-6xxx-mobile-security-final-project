@@ -50,7 +50,7 @@ We want to target applications that are developed by smaller companies which may
     - Summary: No findings.
 
 2.  "Q StudentConnection"
-    - Status: WIP
+    - Status: Done.
     - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
     - https://github.com/meltingscales/com.AequitasSolutions.StudentPortal
     - Summary: No findings.
