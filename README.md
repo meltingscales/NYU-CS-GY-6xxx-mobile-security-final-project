@@ -47,6 +47,7 @@ We want to target applications that are developed by smaller companies which may
     - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
     - https://github.com/meltingscales/com.edu_pro.studentportal
     - Summary: No findings.
+    - Status: Done.
 
 2.  "Q StudentConnection"
     - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
