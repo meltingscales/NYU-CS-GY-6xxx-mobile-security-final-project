@@ -63,7 +63,7 @@ We want to target applications that are developed by smaller companies which may
 
 4.  "BHIM Axis Pay:UPI,Online Recha"
     - https://play.google.com/store/apps/details?id=com.upi.axispay
-    - github link tbd - henry
+    - https://github.com/meltingscales/com.upi.axispay
 
 5.  "PrismHR Employee Portal"
     - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
@@ -105,6 +105,7 @@ We want to target applications that are developed by smaller companies which may
 ### Decompilation
 
 - [apktool](https://apktool.org/docs/install/)
+- [jadx](https://github.com/skylot/jadx)
 
 ### URLs
 
