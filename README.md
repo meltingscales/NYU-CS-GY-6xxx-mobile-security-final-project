@@ -98,7 +98,7 @@ We want to target applications that are developed by smaller companies which may
 5.  "PrismHR Employee Portal"
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
-    - github link tbd - henry
+    - https://github.com/meltingscales/com.prismhr.employeeportal
 
 6.  ClientiApp - Client management
     - Status: WIP
