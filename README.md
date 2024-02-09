@@ -71,9 +71,29 @@ We want to target applications that are developed by smaller companies which may
         - Assorted Medium findings.
 
 4.  "BHIM Axis Pay:UPI,Online Recha"
-    - Status: WIP
+    - Status: Done.
     - https://play.google.com/store/apps/details?id=com.upi.axispay
     - https://github.com/meltingscales/com.upi.axispay
+    - Summary:
+      - No leaked secrets.
+      - apkurlgrep: 
+        - Looks like they use DESede and AES CBC for some reason.
+        - A LOT of URLs show up. At least 100 endpoints. They're probably related to <https://upiuat.axisbank.co.in/v1/>. I hope this company has a good API security program in place!
+          - /v1/bank/transactions/pay
+          - /v1/customer/accounts
+          - /v1/customer/accounts/mobreg
+          - /v1/customer/otp
+          - /v1/customer/accounts/remove
+          - /v1/customer/accounts/update
+          - /v1/authenticate
+          - /v1/bank/transactions/balanceinquiry/creditline
+          - ...etc
+      - Snyk SAST:
+        - Hardcoded IVs for encryption,
+        - Uses Random.nextInt for seeding encryption
+        - Deserializes serialized untrusted data
+        - A handful of Medium findings.
+
 
 5.  "PrismHR Employee Portal"
     - Status: WIP
