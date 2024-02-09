@@ -51,7 +51,7 @@ We want to target applications that are developed by smaller companies which may
 2.  "Q StudentConnection"
     - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
     - https://github.com/meltingscales/com.AequitasSolutions.StudentPortal
-    - Summary: PENDING
+    - Summary: No findings.
 
 3.  "Axis Mobile - Corporate"
     - https://play.google.com/store/apps/details?id=com.axisidp.mobile
