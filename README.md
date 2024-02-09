@@ -96,9 +96,13 @@ We want to target applications that are developed by smaller companies which may
 
 
 5.  "PrismHR Employee Portal"
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
-    - github link tbd - henry
+    - https://github.com/meltingscales/com.prismhr.employeeportal
+    - Summary:
+      - apkurlgrep:
+        - Found 1 URL: https://epycorp-ep.prismhr.com/apis/ep/peos?fwdClientCode=
+          - Seems to be used with a URL parameter. We could probably fuzz the `fwdClientCode` parameter.
 
 6.  ClientiApp - Client management
     - Status: WIP
