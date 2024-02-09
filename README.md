@@ -44,17 +44,19 @@ We want to target applications that are developed by smaller companies which may
 ## Decompiled APKs
 
 1.  "Student Portal"
+    - Status: Done.
     - https://play.google.com/store/apps/details?id=com.edu_pro.studentportal
     - https://github.com/meltingscales/com.edu_pro.studentportal
     - Summary: No findings.
-    - Status: Done.
 
 2.  "Q StudentConnection"
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.AequitasSolutions.StudentPortal
     - https://github.com/meltingscales/com.AequitasSolutions.StudentPortal
     - Summary: No findings.
 
 3.  "Axis Mobile - Corporate"
+    - Status: Done.
     - https://play.google.com/store/apps/details?id=com.axisidp.mobile
     - https://github.com/meltingscales/com.axisidp.mobile
     - Summary:
@@ -69,30 +71,37 @@ We want to target applications that are developed by smaller companies which may
         - Assorted Medium findings.
 
 4.  "BHIM Axis Pay:UPI,Online Recha"
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.upi.axispay
     - https://github.com/meltingscales/com.upi.axispay
 
 5.  "PrismHR Employee Portal"
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.prismhr.employeeportal
     - github link tbd - henry
 
 6.  ClientiApp - Client management
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
     - github link tbd - michael
 
 7.  AppFolio Property Manager
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
     - github link tbd - michael
 
 8.  InteliChart Patient Portal
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
     - github link tbd - michael
 
 9.  Verizon Business Group Network Vendor Portal
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
     - github link tbd - michael
 
 10. Paycom Software, Inc. Paycom
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
     - github link tbd - michael
 
