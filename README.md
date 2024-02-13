@@ -108,27 +108,31 @@ We want to target applications that are developed by smaller companies which may
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
     - github link tbd - michael
+    - Summary: tbd - michael
 
 7.  AppFolio Property Manager
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
     - github link tbd - michael
+    - Summary: tbd - michael
 
 8.  InteliChart Patient Portal
     - Status: WIP
     - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
     - github link tbd - michael
+    - Summary: tbd - michael
 
 9.  Verizon Business Group Network Vendor Portal
     - Status: WIP
     - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
     - github link tbd - michael
+    - Summary: tbd - michael
 
 10. Paycom Software, Inc. Paycom
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
     - github link tbd - michael
-
+    - Summary: tbd - michael
 
 ## Resources
 
