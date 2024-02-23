@@ -108,31 +108,43 @@ We want to target applications that are developed by smaller companies which may
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
     - github https://github.com/maa9605/clientapp
-    - Summary: tbd - michael
-
+    - Summary:
+    - Snyk SAST:
+        - Use of a hardcoded array for crypto keys,
+        - IV parameter using hardcoded array,
+        - Use of SHA-1
+        - Android Broadcast without
+          
 7.  AppFolio Property Manager
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
     - github https://github.com/maa9605/appfolio
-    - Summary: tbd - michael
+    - Summary:
+    - Snyk SAST:
+        - Possible TLS vulnerability
+        - Unsanitized URI input (Possible SQL injection vulnerability)  
 
 8.  InteliChart Patient Portal
     - Status: WIP
     - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
     - github https://github.com/maa9605/patientportal
-    - Summary: tbd - michael
-
+    - Summary:
+    - Snyk SAST:
+        - Possible TLS vulnerability
+        - Unsanitized URI input (Possible SQL injection vulnerability)
+        - Unsecured communication with local port 
+          
 9.  Verizon Business Group Network Vendor Portal
     - Status: WIP
     - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
     - github https://github.com/maa9605/vendorapp
-    - Summary: tbd - michael
+    - Summary: No Findings of importance
 
 10. Paycom Software, Inc. Paycom
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
     - github https://github.com/maa9605/paycom
-    - Summary: tbd - michael
+    - Summary: No Findings of importance
 
 ## Resources
 
