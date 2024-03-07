@@ -8,6 +8,8 @@ Google Drive folder for presentation/non-SCM files: https://drive.google.com/dri
 
 - Search for 5 APKs
   - Decompile them and put their decompiled source code into git repos, and update this document with links to the repos
+- Add 10 APKs from a formalized list
+  - See <https://www.makeuseof.com/tag/most-popular-android-apps/#:~:text=The%2020%20Most%20Popular%20Android%20Apps%20in%20the,Netflix%20(%2B9)%201.88%20billion%20downloads%20...%20More%20items> and pick the top ten
 
 ## Goals
 
@@ -105,7 +107,7 @@ We want to target applications that are developed by smaller companies which may
           - Seems to be used with a URL parameter. We could probably fuzz the `fwdClientCode` parameter.
 
 6.  ClientiApp - Client management
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
     - github https://github.com/maa9605/clientapp
     - Summary:
@@ -116,7 +118,7 @@ We want to target applications that are developed by smaller companies which may
         - Android Broadcast without
           
 7.  AppFolio Property Manager
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
     - github https://github.com/maa9605/appfolio
     - Summary:
@@ -125,7 +127,7 @@ We want to target applications that are developed by smaller companies which may
         - Unsanitized URI input (Possible SQL injection vulnerability)  
 
 8.  InteliChart Patient Portal
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
     - github https://github.com/maa9605/patientportal
     - Summary:
@@ -135,16 +137,56 @@ We want to target applications that are developed by smaller companies which may
         - Unsecured communication with local port 
           
 9.  Verizon Business Group Network Vendor Portal
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=raps.verizon.com.oneapplaunchersso&hl=en
     - github https://github.com/maa9605/vendorapp
     - Summary: No Findings of importance
 
 10. Paycom Software, Inc. Paycom
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
     - github https://github.com/maa9605/paycom
     - Summary: No Findings of importance
+
+11. WhatsApp (Michael)
+
+12. Facebook (Michael)
+
+13. Messenger (Michael)
+
+14. TikTok (Michael)
+
+15. Instagram (Michael)
+
+16. Facebook Lite (Henry)
+    - Status: TODO
+    - hxxps://play.google.com/store/apps/details?id=???
+    - github: https://github.com/TBD
+    - Summary: TODO
+
+17. SHAREit (Henry)
+    - Status: TODO
+    - hxxps://play.google.com/store/apps/details?id=???
+    - github: https://github.com/TBD
+    - Summary: TODO
+
+18. Netflix (Henry)
+    - Status: TODO
+    - hxxps://play.google.com/store/apps/details?id=???
+    - github: https://github.com/TBD
+    - Summary: TODO
+
+19. Snapchat (Henry)
+    - Status: TODO
+    - hxxps://play.google.com/store/apps/details?id=???
+    - github: https://github.com/TBD
+    - Summary: TODO
+
+20. Telegram (Henry)
+    - Status: TODO
+    - hxxps://play.google.com/store/apps/details?id=???
+    - github: https://github.com/TBD
+    - Summary: TODO
 
 ## Resources
 
