@@ -111,30 +111,30 @@ We want to target applications that are developed by smaller companies which may
     - https://play.google.com/store/apps/details?id=com.gg.clienti&hl=en
     - github https://github.com/maa9605/clientapp
     - Summary:
-    - Snyk SAST:
-        - Use of a hardcoded array for crypto keys,
-        - IV parameter using hardcoded array,
-        - Use of SHA-1
-        - Android Broadcast without
+      - Snyk SAST:
+          - Use of a hardcoded array for crypto keys,
+          - IV parameter using hardcoded array,
+          - Use of SHA-1
+          - Android Broadcast without
           
 7.  AppFolio Property Manager
     - Status: DONE
     - https://play.google.com/store/apps/details?id=com.appfolio.appfolio_property_manager&hl=en
     - github https://github.com/maa9605/appfolio
     - Summary:
-    - Snyk SAST:
-        - Possible TLS vulnerability
-        - Unsanitized URI input (Possible SQL injection vulnerability)  
+      - Snyk SAST:
+          - Possible TLS vulnerability
+          - Unsanitized URI input (Possible SQL injection vulnerability)  
 
 8.  InteliChart Patient Portal
     - Status: DONE
     - https://play.google.com/store/apps/details?id=ic.mobile.patientportal&hl=en
     - github https://github.com/maa9605/patientportal
     - Summary:
-    - Snyk SAST:
-        - Possible TLS vulnerability
-        - Unsanitized URI input (Possible SQL injection vulnerability)
-        - Unsecured communication with local port 
+      - Snyk SAST:
+          - Possible TLS vulnerability
+          - Unsanitized URI input (Possible SQL injection vulnerability)
+          - Unsecured communication with local port 
           
 9.  Verizon Business Group Network Vendor Portal
     - Status: DONE
@@ -159,10 +159,14 @@ We want to target applications that are developed by smaller companies which may
 15. Instagram (Michael)
 
 16. Facebook Lite (Henry)
-    - Status: WIP
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=com.facebook.lite
     - github: https://github.com/meltingscales/com.facebook.lite
-    - Summary: TODO
+    - Summary:
+      - Snyk SAST:
+        - TLS 1.0 is used instead of TLS 1.2
+      - apkurlgrep
+        - Various API endpoints, but nothing really juicy.
 
 17. SHAREit (Henry)
     - Status: TODO
