@@ -159,33 +159,33 @@ We want to target applications that are developed by smaller companies which may
 15. Instagram (Michael)
 
 16. Facebook Lite (Henry)
-    - Status: TODO
-    - hxxps://play.google.com/store/apps/details?id=???
-    - github: https://github.com/TBD
+    - Status: WIP
+    - https://play.google.com/store/apps/details?id=com.facebook.lite
+    - github: https://github.com/meltingscales/com.facebook.lite
     - Summary: TODO
 
 17. SHAREit (Henry)
     - Status: TODO
-    - hxxps://play.google.com/store/apps/details?id=???
-    - github: https://github.com/TBD
+    - https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps
+    - github: https://github.com/meltingscales/com.lenovo.anyshare.gps
     - Summary: TODO
 
 18. Netflix (Henry)
     - Status: TODO
-    - hxxps://play.google.com/store/apps/details?id=???
-    - github: https://github.com/TBD
+    - https://play.google.com/store/apps/details?id=com.netflix.mediaclient
+    - github: https://github.com/meltingscales/com.netflix.mediaclient
     - Summary: TODO
 
 19. Snapchat (Henry)
     - Status: TODO
-    - hxxps://play.google.com/store/apps/details?id=???
-    - github: https://github.com/TBD
+    - https://play.google.com/store/apps/details?id=com.snapchat.android
+    - github: https://github.com/meltingscales/com.snapchat.android
     - Summary: TODO
 
 20. Telegram (Henry)
     - Status: TODO
-    - hxxps://play.google.com/store/apps/details?id=???
-    - github: https://github.com/TBD
+    - https://play.google.com/store/apps/details?id=org.telegram.messenger
+    - github: https://github.com/meltingscales/org.telegram.messenger
     - Summary: TODO
 
 ## Resources
