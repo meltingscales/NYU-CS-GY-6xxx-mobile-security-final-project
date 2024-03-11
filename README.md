@@ -178,15 +178,17 @@ We want to target applications that are developed by smaller companies which may
       - apkurlgrep
         - Some API URLS are revealed. Could be useful to probe these.
       - Snyk SAST
-        - TODO
+        - Currently scanning.
       - jadx
         - NSTR.
 
 18. Netflix (Henry)
-    - Status: TODO
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.netflix.mediaclient
     - github: https://github.com/meltingscales/com.netflix.mediaclient
-    - Summary: TODO
+    - Summary: 
+      - Snyk SAST
+        - Currently scanning.
 
 19. Snapchat (Henry)
     - Status: TODO
