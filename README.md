@@ -206,7 +206,11 @@ We want to target applications that are developed by smaller companies which may
     - Status: TODO
     - https://play.google.com/store/apps/details?id=org.telegram.messenger
     - github: https://github.com/meltingscales/org.telegram.messenger
-    - Summary: TODO
+    - Summary:
+      - Snyk SAST:
+        - Currently scanning.
+      - gitleaks
+        - 1 "SafetyNet" API key is exposed in the source code of a file called "BuildVars.java"
 
 ## Resources
 
