@@ -191,10 +191,16 @@ We want to target applications that are developed by smaller companies which may
         - Currently scanning.
 
 19. Snapchat (Henry)
-    - Status: TODO
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.snapchat.android
     - github: https://github.com/meltingscales/com.snapchat.android
-    - Summary: TODO
+    - Summary: 
+      - Snyk SAST
+        - Currently scanning.
+      - gitleaks
+        - 1 "SafetyNet" API key is exposed in the source code of a file called `BuildConfig.java`.
+      - apkurlgrep
+        - A lot of internal SnapChat API URLs and routes show up.
 
 20. Telegram (Henry)
     - Status: TODO
