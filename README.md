@@ -169,10 +169,18 @@ We want to target applications that are developed by smaller companies which may
         - Various API endpoints, but nothing really juicy.
 
 17. SHAREit (Henry)
-    - Status: TODO
+    - Status: WIP
     - https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps
     - github: https://github.com/meltingscales/com.lenovo.anyshare.gps
-    - Summary: TODO
+    - Summary:
+      - gitleaks
+        - Some GCP API keys may be exposed.
+      - apkurlgrep
+        - Some API URLS are revealed. Could be useful to probe these.
+      - Snyk SAST
+        - TODO
+      - jadx
+        - NSTR.
 
 18. Netflix (Henry)
     - Status: TODO
