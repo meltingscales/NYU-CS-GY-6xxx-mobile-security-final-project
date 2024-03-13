@@ -203,12 +203,12 @@ We want to target applications that are developed by smaller companies which may
         - A lot of internal SnapChat API URLs and routes show up.
 
 20. Telegram (Henry)
-    - Status: TODO
+    - Status: DONE
     - https://play.google.com/store/apps/details?id=org.telegram.messenger
     - github: https://github.com/meltingscales/org.telegram.messenger
     - Summary:
       - Snyk SAST:
-        - Currently scanning.
+        - A few SQL injection vulnerabilities, use of AES CBC, and a few other mediums.
       - gitleaks
         - 1 "SafetyNet" API key is exposed in the source code of a file called "BuildVars.java"
 
