@@ -149,16 +149,49 @@ We want to target applications that are developed by smaller companies which may
     - Summary: No Findings of importance
 
 11. WhatsApp (Michael)
+    -  Status: DONE
+    -  https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    -  github https://github.com/maa9605/whtsapp
+    -  Summary: 1 Critical Issue Found
+      -  Google API Key Found: resources/res/values/strings.xml
 
-12. Facebook (Michael)
+13. Facebook (Michael)
+    -  Status: DONE
+    -  https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    -  github https://github.com/maa9605/whtsapp
+    - Summary: 4 Critical Issues Found
+      -  Username & Password Found in File: sources/org/webrtc/PeerConnection.java
+      -  Generic Password: sources/com/facebook/graphql/enums/GraphQLAllPaymentTypeFieldsSet.java
+      -  Google API Key Found: sources/X/C32150G3b.java
+      -  Facebook App Key Found: sources/X/C28211et.java
 
-13. Messenger (Michael)
 
-14. TikTok (Michael)
+15. Messenger (Michael)
+    -  Status: DONE
+    -  https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    -  github https://github.com/maa9605/whtsapp
+    -  Summary: 2 Critical Issues Found
+      -  Google API Key Found: resources/AndroidManifest.xml
+      -  Facebook App Key Found:sources/com/facebook/messaging/accountlogin
+      ~ fragment/segue/AccountLoginSegueCredentials.java
 
-15. Instagram (Michael)
+17. TikTok (Michael)
+    -  Status: DONE
+    -  https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    -  github https://github.com/maa9605/whtsapp
+    -  Summary: 1 Critical Issue Found
+      -  Google API Key Found: resources/AndroidManifest.xml
 
-16. Facebook Lite (Henry)
+19. Instagram (Michael)
+    -  Status: DONE
+    -  https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en
+    -  github https://github.com/maa9605/whtsapp
+    -  Summary: 3 Critical Issues Found
+      -  Google API Key Found: resources/res/values/strings.xml
+      -  Facebook App Key Found: sources/X/AbstractC19240xM.java
+      -  Facebook App Key Found: sources/X/AnonymousClass224.java
+
+21. Facebook Lite (Henry)
     - Status: DONE
     - https://play.google.com/store/apps/details?id=com.facebook.lite
     - github: https://github.com/meltingscales/com.facebook.lite
@@ -168,7 +201,7 @@ We want to target applications that are developed by smaller companies which may
       - apkurlgrep
         - Various API endpoints, but nothing really juicy.
 
-17. SHAREit (Henry)
+22. SHAREit (Henry)
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps
     - github: https://github.com/meltingscales/com.lenovo.anyshare.gps
@@ -182,7 +215,7 @@ We want to target applications that are developed by smaller companies which may
       - jadx
         - NSTR.
 
-18. Netflix (Henry)
+23. Netflix (Henry)
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.netflix.mediaclient
     - github: https://github.com/meltingscales/com.netflix.mediaclient
@@ -190,7 +223,7 @@ We want to target applications that are developed by smaller companies which may
       - Snyk SAST
         - Currently scanning.
 
-19. Snapchat (Henry)
+24. Snapchat (Henry)
     - Status: WIP
     - https://play.google.com/store/apps/details?id=com.snapchat.android
     - github: https://github.com/meltingscales/com.snapchat.android
@@ -202,7 +235,7 @@ We want to target applications that are developed by smaller companies which may
       - apkurlgrep
         - A lot of internal SnapChat API URLs and routes show up.
 
-20. Telegram (Henry)
+25. Telegram (Henry)
     - Status: DONE
     - https://play.google.com/store/apps/details?id=org.telegram.messenger
     - github: https://github.com/meltingscales/org.telegram.messenger
