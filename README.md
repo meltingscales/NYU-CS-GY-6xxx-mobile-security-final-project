@@ -2,7 +2,9 @@
 
 ## Related Links
 
-Google Drive folder for presentation/non-SCM files: https://drive.google.com/drive/folders/1Po1YpPNEcthpGrT-sxIwqHcVqTR_IHMb?usp=sharing
+- Google Drive folder for presentation/non-SCM files: https://drive.google.com/drive/folders/1Po1YpPNEcthpGrT-sxIwqHcVqTR_IHMb?usp=sharing
+- Youtube Video: https://youtu.be/4o2URWPtqX4
+
 
 ## Tasks
 
